@@ -1,0 +1,618 @@
+{
+"ic_map_golf": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 0
+},
+"ic_map_cbc": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 27,
+"y": 0
+},
+"ic_map_g": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 54,
+"y": 0
+},
+"ic_map_tv_tower": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 81,
+"y": 0
+},
+"ic_map_transfer_station_small": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 108,
+"y": 0
+},
+"ic_map_subway_shanghai": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 135,
+"y": 0
+},
+"ic_map_kfc": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 162,
+"y": 0
+},
+"ic_map_subway_haerbin": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 189,
+"y": 0
+},
+"ic_map_bar": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 216,
+"y": 0
+},
+"ic_map_subway_suzhou": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 243,
+"y": 0
+},
+"ic_map_bcm": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 27
+},
+"ic_map_other": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 27
+},
+"ic_map_subway_switch_zhengzhou": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 27,
+"y": 27
+},
+"ic_map_f": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 54,
+"y": 27
+},
+"ic_map_e": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 81,
+"y": 27
+},
+"ic_map_subway_tianjin": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 108,
+"y": 27
+},
+"ic_map_library": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 135,
+"y": 27
+},
+"ic_map_subway_chongqing": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 162,
+"y": 27
+},
+"ic_map_subway": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 189,
+"y": 27
+},
+"ic_map_wc": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 216,
+"y": 27
+},
+"ic_map_university": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 243,
+"y": 27
+},
+"ic_map_subway_switch_red": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 54
+},
+"ic_map_subway_hefei": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 54
+},
+"ic_map_bus_station2": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 27,
+"y": 54
+},
+"ic_map_c_city": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 54,
+"y": 54
+},
+"ic_map_museum": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 81,
+"y": 54
+},
+"ic_map_bank": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 108,
+"y": 54
+},
+"ic_map_subway_beijing": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 135,
+"y": 54
+},
+"ic_map_subway_switch_beijing": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 162,
+"y": 54
+},
+"ic_map_boc": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 189,
+"y": 54
+},
+"ic_map_subway_kunming": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 216,
+"y": 54
+},
+"ic_map_subway_switch_hefeichengdu": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 243,
+"y": 54
+},
+"ic_map_subway_switch_suzhou": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 81
+},
+"ic_map_subway_hangzhou": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 81
+},
+"ic_map_tv": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 27,
+"y": 81
+},
+"ic_map_beauty": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 54,
+"y": 81
+},
+"ic_map_scenics": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 81,
+"y": 81
+},
+"ic_map_subway_switch_changsha": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 108,
+"y": 81
+},
+"ic_map_subway_switch_shenzhenkunmingchongqing": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 135,
+"y": 81
+},
+"ic_map_hospital": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 162,
+"y": 81
+},
+"ic_map_b": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 189,
+"y": 81
+},
+"ic_map_icbc": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 216,
+"y": 81
+},
+"ic_map_subway_nanjing": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 243,
+"y": 81
+},
+"ic_map_bus_station": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 108
+},
+"ic_map_subway_shenyang": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 108
+},
+"ic_map_subway_xian": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 27,
+"y": 108
+},
+"ic_map_fitness": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 54,
+"y": 108
+},
+"ic_map_port": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 81,
+"y": 108
+},
+"ic_map_residential": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 108,
+"y": 108
+},
+"ic_map_macdonal": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 135,
+"y": 108
+},
+"ic_map_culture": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 162,
+"y": 108
+},
+"ic_map_government2": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 189,
+"y": 108
+},
+"ic_map_market": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 216,
+"y": 108
+},
+"ic_map_subway_switch_dalian": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 243,
+"y": 108
+},
+"ic_map_parking": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 135
+},
+"ic_map_park_2": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 135
+},
+"ic_map_abc": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 27,
+"y": 135
+},
+"ic_map_other_cities": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 54,
+"y": 135
+},
+"ic_map_subway_changchun": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 81,
+"y": 135
+},
+"ic_map_2": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 108,
+"y": 135
+},
+"ic_map_capital": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 135,
+"y": 135
+},
+"ic_map_subway_switch_wuhan": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 162,
+"y": 135
+},
+"ic_map_mobile": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 189,
+"y": 135
+},
+"ic_map_school": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 216,
+"y": 135
+},
+"ic_map_subway_wuxi": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 243,
+"y": 135
+},
+"ic_map_government1": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 162
+},
+"ic_map_park": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 162
+},
+"ic_map_a": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 27,
+"y": 162
+},
+"ic_map_stadium": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 54,
+"y": 162
+},
+"ic_map_hi_tech_park": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 81,
+"y": 162
+},
+"ic_map_subway_shenzhen": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 108,
+"y": 162
+},
+"ic_map_d": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 135,
+"y": 162
+},
+"ic_map_gas_station": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 162,
+"y": 162
+},
+"ic_map_subway_zhengzhou": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 189,
+"y": 162
+},
+"ic_map_dining": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 216,
+"y": 162
+},
+"ic_map_theater": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 243,
+"y": 162
+},
+"ic_map_building": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 189
+},
+"ic_map_union_com": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 189
+},
+"ic_map_hotel": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 27,
+"y": 189
+},
+"ic_map_c": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 54,
+"y": 189
+},
+"ic_map_subway_wuhan": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 81,
+"y": 189
+},
+"ic_map_research": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 108,
+"y": 189
+},
+"ic_map_subway_changsha": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 135,
+"y": 189
+},
+"ic_map_subway_guangzhou": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 162,
+"y": 189
+},
+"ic_map_airport2": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 189,
+"y": 189
+},
+"ic_map_train_station": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 216,
+"y": 189
+},
+"ic_map_telecom": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 243,
+"y": 189
+},
+"ic_map_subway_dalian": {
+"height": 27,
+"pixelRatio": 1,
+"width": 27,
+"x": 0,
+"y": 216
+}
+}

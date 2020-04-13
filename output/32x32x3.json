@@ -1,0 +1,23 @@
+{
+"ic_map_county.9": {
+"height": 32,
+"pixelRatio": 1,
+"width": 32,
+"x": 0,
+"y": 0
+},
+"ic_map_area.9": {
+"height": 32,
+"pixelRatio": 1,
+"width": 32,
+"x": 32,
+"y": 0
+},
+"ic_map_subway_exit.9": {
+"height": 32,
+"pixelRatio": 1,
+"width": 32,
+"x": 0,
+"y": 32
+}
+}

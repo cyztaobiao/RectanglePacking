@@ -1,0 +1,58 @@
+{
+"ic_map_gh.9": {
+"height": 36,
+"pixelRatio": 1,
+"width": 36,
+"x": 0,
+"y": 0
+},
+"ic_map_highway_entry": {
+"height": 36,
+"pixelRatio": 1,
+"width": 36,
+"x": 36,
+"y": 0
+},
+"ic_map_s.9": {
+"height": 36,
+"pixelRatio": 1,
+"width": 36,
+"x": 72,
+"y": 0
+},
+"ic_map_toll": {
+"height": 36,
+"pixelRatio": 1,
+"width": 36,
+"x": 0,
+"y": 36
+},
+"ic_map_gd.9": {
+"height": 36,
+"pixelRatio": 1,
+"width": 36,
+"x": 0,
+"y": 36
+},
+"ic_map_highway_exit": {
+"height": 36,
+"pixelRatio": 1,
+"width": 36,
+"x": 36,
+"y": 36
+},
+"ic_map_x.9": {
+"height": 36,
+"pixelRatio": 1,
+"width": 36,
+"x": 72,
+"y": 36
+},
+"ic_map_sh.9": {
+"height": 36,
+"pixelRatio": 1,
+"width": 36,
+"x": 0,
+"y": 72
+}
+}
